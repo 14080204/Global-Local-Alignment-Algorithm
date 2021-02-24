@@ -1,7 +1,0 @@
-﻿  Alignment.cpp
-C:\Users\patty\source\repos\ComputationalGenomicsHW1\ComputationalGenomicsHW1\Alignment.cpp(345,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\patty\source\repos\ComputationalGenomicsHW1\ComputationalGenomicsHW1\Alignment.cpp(430,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\patty\source\repos\ComputationalGenomicsHW1\ComputationalGenomicsHW1\Alignment.cpp(478,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\patty\source\repos\ComputationalGenomicsHW1\ComputationalGenomicsHW1\Alignment.cpp(530,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\patty\source\repos\ComputationalGenomicsHW1\ComputationalGenomicsHW1\Alignment.cpp(575,20): warning C4018: '<': signed/unsigned mismatch
-  ComputationalGenomicsHW1.vcxproj -> C:\Users\patty\source\repos\ComputationalGenomicsHW1\Debug\ComputationalGenomicsHW1.exe
