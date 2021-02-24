@@ -1,2 +1,2 @@
 # Global-Local-Alignment-Algorithm  
-Results are in main folder.  
+Results are in debug folder.  
