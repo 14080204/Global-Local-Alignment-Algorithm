@@ -1,0 +1,12 @@
+Scores:		match = 0, mismatch = 0, h = 0, g = 0
+
+Sequence 1 = "NC_000007.14:c128775790-128772489 ", length = 3302 characters
+Sequence 2 = "NC_000072.6:c29380513-29376671 ", length = 3843 characters
+
+Report:
+
+Local optimal score = 0
+
+Number of: matches = 0, mismatches = 1, gaps = 0, opening gaps = 0
+
+Identities = 0/0 (-nan(ind)%), Gaps = 0/0 (-nan(ind)%)
